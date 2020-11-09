@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cheese Index</string>
+    <string name="find_cheese">Find Cheese Here!</string>
+    <string name="types">No cheese have been selected!
+    </string>
+    <string-array name="color_name"><!--Name of the array-->
+        <item>light</item>
+        <item>dark</item>
+        <item>brown</item>
+        <item>golden</item>
+    </string-array>
+</resources>
